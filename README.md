@@ -84,41 +84,17 @@ Validated knowledge of AWS Cloud services, architecture principles, security, pr
 
 ## 🚀 Featured Projects
 
-### 📅 SkillSlot
-
-A SaaS platform for freelancers and tutors to manage bookings and scheduling.
-
-**Tech Stack:** Angular, Firebase, TypeScript
-
 ### 📝 Bloggers' Bubble
 
-A blogging platform focused on content creation and user engagement.
+A modern blogging platform focused on content creation, user engagement, and responsive user experiences.
 
 **Tech Stack:** Angular, TypeScript, REST APIs
 
-### 📊 Device Data Hub Tool
+### 🌐 Portfolio Website
 
-A platform for visualizing sensor compatibility with Siemens PLCs and generating exportable configuration files for TIA Portal.
+A personal portfolio showcasing projects, technical skills, and professional experience.
 
-**Tech Stack:** Angular, TypeScript
-
-### 📒 Real-Time Notes Application
-
-A collaborative notes application with real-time synchronization and modern state management.
-
-**Tech Stack:** Angular, NgRx, PostgreSQL, Firebase
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Candy47&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Candy47&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+**Tech Stack:** Angular, TypeScript, Responsive Design
 
 ---
 
