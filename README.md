@@ -1,24 +1,8 @@
 # Hi there 👋, I'm Gurinder Singh Mann
 
-<div align="center">
-
 # 🚀 Full Stack Developer
 
 ### Angular | Node.js | .NET | AWS Certified Cloud Practitioner
-
-<p>
-  <a href="https://github.com/Candy47">
-    <img src="https://komarev.com/ghpvc/?username=Candy47&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://webdevfolio.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/gurinder-singh-mann-81a265227/">LinkedIn</a> •
-  <a href="https://github.com/Candy47">GitHub</a>
-</p>
-
-</div>
 
 ---
 
@@ -40,37 +24,35 @@ I'm a Full Stack Developer with 3+ years of experience building scalable web app
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js" />
-</p>
+* Angular
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,java" />
-</p>
+* Node.js
+* ASP.NET Core
+* .NET Core
+* Java
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
+* PostgreSQL
+* SQL
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
+* AWS
+* Docker
 
 ### State Management & Tools
 
-<p>
-<img src="https://img.shields.io/badge/NgRx-DD0031?style=for-the-badge&logo=ngrx&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+* NgRx
+* Firebase
+* Git
+* REST APIs
 
 ---
 
@@ -79,6 +61,8 @@ I'm a Full Stack Developer with 3+ years of experience building scalable web app
 ### ☁️ AWS Certified Cloud Practitioner
 
 Validated knowledge of AWS Cloud services, architecture principles, security, pricing, and cloud best practices.
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/View-Credly_Badge-orange?style=for-the-badge\&logo=amazonaws)](https://www.credly.com/badges/50cb2171-a19e-4e44-ac6e-d212f4cc9987)
 
 ---
 
@@ -95,6 +79,14 @@ A modern blogging platform focused on content creation, user engagement, and res
 A personal portfolio showcasing projects, technical skills, and professional experience.
 
 **Tech Stack:** Angular, TypeScript, Responsive Design
+
+---
+
+## 📈 GitHub Stats
+
+![Gurinder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Candy47\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Candy47\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -122,8 +114,4 @@ A personal portfolio showcasing projects, technical skills, and professional exp
 
 ---
 
-<div align="center">
-
 ### 🚀 Building scalable applications, one commit at a time.
-
-</div>
